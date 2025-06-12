@@ -19,8 +19,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 ---
-<!-- Optional: Contact Info -->
-<!--
-📫 Contact: [your.email@example.com](mailto:your.email@example.com)
-🌐 Portfolio: [your-website.com](https://your-website.com)
--->
+### 📬 Contact Info.
+
+📫 Email: [dntjd0804@gmail.com](mailto:dntjd0804@gmail.com)  
+🌐 Portfolio: [Google Drive Portfolio](https://drive.google.com/your-portfolio-link)
