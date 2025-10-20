@@ -1,4 +1,4 @@
-## Wooseong Yun
+## Woo-Seong Yun
 
 🎓 **M.S. in Artificial Intelligence at Chung-Ang University**  
 🎓 **B.S. in Applied Statistics at Chung-Ang University**
