@@ -22,4 +22,4 @@
 ### 📬 Contact Info.
 
 📫 Email: [dntjd0804@cau.ac.kr](mailto:dntjd0804@cau.ac.kr)  
-🌐 Portfolio: [Google Drive Portfolio](https://drive.google.com/your-portfolio-link)
+🌐 Portfolio: [Google Drive Portfolio](https://drive.google.com/file/d/1KPWC62CAgovkk5pKlusMe0r-YZLudfSd/view?usp=sharing)
