@@ -1,25 +1,55 @@
-## Woo-Seong Yun
+# Hi, I'm Woo-Seong Yun 👋
 
-🎓 **M.S. in Artificial Intelligence at Chung-Ang University**  
-🎓 **B.S. in Applied Statistics at Chung-Ang University**
+I build AI systems that uncover preferences users themselves may not yet recognize, focusing on making recommendations both accurate and explainable.
+
+🎓 **M.S. in Artificial Intelligence** - Chung-Ang University (2023-2025)
+🎓 **B.S. in Applied Statistics** - Chung-Ang University (2018-2023)
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+**Tools & Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-1E90FF?style=flat-square&logo=sas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 🛠️ Tech Stacks
+## 📚 Selected Publications
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![SPSS](https://img.shields.io/badge/SPSS-4D4D4D?style=flat&logo=spss&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-0275A6?style=flat&logo=sas&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+### Conference Papers
+
+**[WSDM 2026]** ARROW: Adaptive Reasoning for LLM-based Recommendation with Explainability
+*Woo-Seong Yun, Min-Seong Kim, and Yoon-Sik Cho*
+
+**[RecSys 2025]** Rethinking Overconfidence in VAEs: Can Label Smoothing Help?
+*Woo-Seong Yun*, Yeojun Choi*, and Yoon-Sik Cho*
+
+### Journal Papers
+
+**[Applied Soft Computing 2026]** GCNs Meet Long-Tail: Embedding Norm Bias in GCN-Based Recommendations
+
+**[IEEE Access 2025]** Contrastive Disentangled Variational Autoencoder for Collaborative Filtering
+
+[→ Full publication list](https://yunwooseong.github.io/#publications)
 
 ---
-### 📬 Contact Info.
 
-📫 Email: [dntjd0804@cau.ac.kr](mailto:dntjd0804@cau.ac.kr)  
-🌐 Portfolio: [Google Drive Portfolio](https://drive.google.com/file/d/1KPWC62CAgovkk5pKlusMe0r-YZLudfSd/view?usp=sharing)
+## 📫 Contact
+
+- **Email**: [dntjd0804@cau.ac.kr](mailto:dntjd0804@cau.ac.kr)
+- **Website**: [yunwooseong.github.io](https://yunwooseong.github.io)
+- **Google Scholar**: [Profile](https://scholar.google.com/citations?user=ZRXyvtMAAAAJ)
+- **ORCID**: [0009-0002-2015-6566](https://orcid.org/0009-0002-2015-6566)
+
+---
