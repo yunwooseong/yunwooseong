@@ -36,7 +36,7 @@ I build AI systems that uncover preferences users themselves may not yet recogni
 **Conference Papers**
 
 [WSDM 2026] ARROW: Adaptive Reasoning for LLM-based Recommendation with Explainability
-*Woo-Seong Yun, Min-Seong Kim, and Yoon-Sik Cho* [PDF]](https://drive.google.com/file/d/1w_3K_XB5Mp21gHbz7cys-RciBIzRzI5j/view?usp=drive_link) [[Code]](https://github.com/yunwooseong/ARROW)
+*Woo-Seong Yun, Min-Seong Kim, and Yoon-Sik Cho* [[PDF]](https://drive.google.com/file/d/1w_3K_XB5Mp21gHbz7cys-RciBIzRzI5j/view?usp=drive_link) [[Code]](https://github.com/yunwooseong/ARROW)
 
 [RecSys 2025] Rethinking Overconfidence in VAEs: Can Label Smoothing Help?
 Woo-Seong Yun*, Yeojun Choi*, and Yoon-Sik Cho [[PDF]](https://drive.google.com/file/d/1efUR29wYnvczTYMfFP3xoDJadYDRquCZ/view?usp=drive_link) [[Code]](https://github.com/yunwooseong/LS-VAE)
