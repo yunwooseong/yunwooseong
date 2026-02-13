@@ -6,9 +6,8 @@ I build AI systems that uncover preferences users themselves may not yet recogni
 
 ### 🎓 Education
 
-**M.S. in Artificial Intelligence** - Chung-Ang University (2023-2025)
-
-**B.S. in Applied Statistics** - Chung-Ang University (2018-2023)
+- **M.S. in Artificial Intelligence** - Chung-Ang University (2023-2025)
+- **B.S. in Applied Statistics** - Chung-Ang University (2018-2023)
 
 ---
 
