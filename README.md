@@ -16,17 +16,17 @@ I build AI systems that uncover preferences users themselves may not yet recogni
 
 **Conference Papers**
 
-[WSDM 2026] ARROW: Adaptive Reasoning for LLM-based Recommendation with Explainability
-*Woo-Seong Yun, Min-Seong Kim, and Yoon-Sik Cho* [[PDF]](https://drive.google.com/file/d/1w_3K_XB5Mp21gHbz7cys-RciBIzRzI5j/view?usp=drive_link) [[Code]](https://github.com/yunwooseong/ARROW)
+[WSDM 2026] ARROW: Adaptive Reasoning for LLM-based Recommendation with Explainability.
+**WS Yun**, MS Kim, and YS Cho. [[PDF]](https://drive.google.com/file/d/1w_3K_XB5Mp21gHbz7cys-RciBIzRzI5j/view?usp=drive_link) [[Code]](https://github.com/yunwooseong/ARROW)
 
 [RecSys 2025] Rethinking Overconfidence in VAEs: Can Label Smoothing Help?
-Woo-Seong Yun*, Yeojun Choi*, and Yoon-Sik Cho [[PDF]](https://drive.google.com/file/d/1efUR29wYnvczTYMfFP3xoDJadYDRquCZ/view?usp=drive_link) [[Code]](https://github.com/yunwooseong/LS-VAE)
+**WS Yun**\*, YJ Choi\*, and YS Cho. [[PDF]](https://drive.google.com/file/d/1efUR29wYnvczTYMfFP3xoDJadYDRquCZ/view?usp=drive_link) [[Code]](https://github.com/yunwooseong/LS-VAE)
 
-### Journal Papers
+**Journal Papers**
 
-[Applied Soft Computing 2026] GCNs Meet Long-Tail: Embedding Norm Bias in GCN-Based Recommendations [[PDF]](https://drive.google.com/file/d/1Hx8wZmoK_7J5Sr9Jz_lTNfEJtZAhlfya/view?usp=drive_link) [[Code]](https://github.com/yunwooseong/GCN-Long-Tail)
+[Applied Soft Computing] GCNs Meet Long-Tail: Embedding Norm Bias in GCN-Based Recommendations. YJ Choi, **WS Yun**, C Jeong, and YS Cho. [[PDF]](https://drive.google.com/file/d/1Hx8wZmoK_7J5Sr9Jz_lTNfEJtZAhlfya/view?usp=drive_link) [[Code]](https://github.com/yunwooseong/GCN-Long-Tail)
 
-[IEEE Access 2025] Contrastive Disentangled Variational Autoencoder for Collaborative Filtering [[PDF]](https://drive.google.com/file/d/1sJxatVm-eE8VfrPVio5AKxaUkK8Vdnb3/view?usp=drive_link) [[Code]](https://github.com/yunwooseong/CD-VAE)
+[IEEE Access] Contrastive Disentangled Variational Autoencoder for Collaborative Filtering. **WS Yun**, SM Kang, and YS Cho. [[PDF]](https://drive.google.com/file/d/1sJxatVm-eE8VfrPVio5AKxaUkK8Vdnb3/view?usp=drive_link) [[Code]](https://github.com/yunwooseong/CD-VAE)
 
 [→ Full publication list](https://yunwooseong.github.io/#publications)
 
