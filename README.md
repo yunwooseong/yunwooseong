@@ -1,18 +1,18 @@
-# Hi, I'm Woo-Seong Yun 👋
+### Hi, I'm Woo-Seong Yun 👋
 
 I build AI systems that uncover preferences users themselves may not yet recognize, focusing on making recommendations both accurate and explainable.
 
 ---
 
-## 🎓 Education
+### 🎓 Education
 
-🎓 **M.S. in Artificial Intelligence** - Chung-Ang University (2023-2025)
+**M.S. in Artificial Intelligence** - Chung-Ang University (2023-2025)
 
-🎓 **B.S. in Applied Statistics** - Chung-Ang University (2018-2023)
+**B.S. in Applied Statistics** - Chung-Ang University (2018-2023)
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 **Languages & Frameworks**
 
@@ -31,21 +31,21 @@ I build AI systems that uncover preferences users themselves may not yet recogni
 
 ---
 
-## 📚 Selected Publications
+### 📚 Selected Publications
 
-### Conference Papers
+**Conference Papers**
 
-**[WSDM 2026]** ARROW: Adaptive Reasoning for LLM-based Recommendation with Explainability
-*Woo-Seong Yun, Min-Seong Kim, and Yoon-Sik Cho*
+[WSDM 2026] ARROW: Adaptive Reasoning for LLM-based Recommendation with Explainability
+*Woo-Seong Yun, Min-Seong Kim, and Yoon-Sik Cho* [PDF]](https://drive.google.com/file/d/1w_3K_XB5Mp21gHbz7cys-RciBIzRzI5j/view?usp=drive_link) [[Code]](https://github.com/yunwooseong/ARROW)
 
-**[RecSys 2025]** Rethinking Overconfidence in VAEs: Can Label Smoothing Help?
-*Woo-Seong Yun*, Yeojun Choi*, and Yoon-Sik Cho*
+[RecSys 2025] Rethinking Overconfidence in VAEs: Can Label Smoothing Help?
+Woo-Seong Yun*, Yeojun Choi*, and Yoon-Sik Cho [[PDF]](https://drive.google.com/file/d/1efUR29wYnvczTYMfFP3xoDJadYDRquCZ/view?usp=drive_link) [[Code]](https://github.com/yunwooseong/LS-VAE)
 
 ### Journal Papers
 
-**[Applied Soft Computing 2026]** GCNs Meet Long-Tail: Embedding Norm Bias in GCN-Based Recommendations
+[Applied Soft Computing 2026] GCNs Meet Long-Tail: Embedding Norm Bias in GCN-Based Recommendations [[PDF]](https://drive.google.com/file/d/1Hx8wZmoK_7J5Sr9Jz_lTNfEJtZAhlfya/view?usp=drive_link) [[Code]](https://github.com/yunwooseong/GCN-Long-Tail)
 
-**[IEEE Access 2025]** Contrastive Disentangled Variational Autoencoder for Collaborative Filtering
+[IEEE Access 2025] Contrastive Disentangled Variational Autoencoder for Collaborative Filtering [[PDF]](https://drive.google.com/file/d/1sJxatVm-eE8VfrPVio5AKxaUkK8Vdnb3/view?usp=drive_link) [[Code]](https://github.com/yunwooseong/CD-VAE)
 
 [→ Full publication list](https://yunwooseong.github.io/#publications)
 
