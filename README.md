@@ -36,3 +36,12 @@ SM Kang, **WS Yun**, N Lee, and YS Cho. [[Paper]](https://openreview.net/forum?i
 YJ Choi, **WS Yun**, C Jeong, and YS Cho. [[PDF]](https://drive.google.com/file/d/1Hx8wZmoK_7J5Sr9Jz_lTNfEJtZAhlfya/view?usp=drive_link) [[Code]](https://github.com/yunwooseong/DNA)
 
 [→ Full publication list](https://yunwooseong.github.io/#publications)
+
+---
+
+### 📫 Contact
+
+- **Email**: [dntjd0804@cau.ac.kr](mailto:dntjd0804@cau.ac.kr)
+- **Website**: [yunwooseong.github.io](https://yunwooseong.github.io)
+- **Google Scholar**: [Profile](https://scholar.google.com/citations?user=ZRXyvtMAAAAJ)
+- **ORCID**: [0009-0002-2015-6566](https://orcid.org/0009-0002-2015-6566)
