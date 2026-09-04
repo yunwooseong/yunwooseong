@@ -35,7 +35,7 @@ SM Kang, **WS Yun**, N Lee, and YS Cho. [[Paper]](https://openreview.net/forum?i
 - [Applied Soft Computing] GCNs Meet Long-Tail: Embedding Norm Bias in GCN-Based Recommendations.
 YJ Choi, **WS Yun**, C Jeong, and YS Cho. [[PDF]](https://drive.google.com/file/d/1Hx8wZmoK_7J5Sr9Jz_lTNfEJtZAhlfya/view?usp=drive_link) [[Code]](https://github.com/yunwooseong/DNA)
 
-[→ Full publication list](https://yunwooseong.github.io/#publications)
+[→ Full publication list](https://scholar.google.com/citations?user=ZRXyvtMAAAAJ)
 
 ---
 
